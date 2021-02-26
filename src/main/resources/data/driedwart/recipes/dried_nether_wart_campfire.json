@@ -3,7 +3,7 @@
     "ingredient": {
         "item": "minecraft:nether_wart"
     },
-    "result": "minecraft:netherrack",
+    "result": "driedwart:dried_nether_wart",
     "experience": 0.1,
     "cookingtime": 600
 }
