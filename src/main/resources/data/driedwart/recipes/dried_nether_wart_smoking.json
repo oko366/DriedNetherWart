@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+        "item": "minecraft:nether_wart"
+    },
+    "result": "driedwart:dried_nether_wart",
+    "experience": 0.1,
+    "cookingtime": 100
+}

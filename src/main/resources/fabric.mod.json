@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "driedwart",
+  "version": "${version}",
+
+  "name": "Dried Nether Wart",
+  "description": "It was edible all along!",
+  "authors": [
+    "oko"
+  ],
+  "contact": {
+    "homepage": "https://oko.moe/",
+    "sources": "https://fem.mint.lgbt/oko/DriedNetherWart"
+  },
+
+  "license": "MIT",
+  "icon": "assets/driedwart/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "moe.oko.driedwart.DriedWart"
+    ]
+  },
+  "mixins": [
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  }
+}
