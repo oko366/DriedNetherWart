@@ -1,1 +1,16 @@
-Dried Nether Wart - it was edible all along
+Dried Nether Wart - it was edible all along!
+============================================
+
+Features:
+
+This mod adds the ability to cook and consume nether wart.
+May be useful for nether survival! WARNING: Potentially Poisonous!!!
+
+Building:
+
+For linux, compile using ./gradlew build
+For windows, compile using .\gradlew.bat build
+
+License:
+
+This mod is licensed under MIT. Feel free to make a forge port!
