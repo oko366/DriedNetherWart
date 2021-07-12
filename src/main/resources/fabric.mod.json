@@ -10,7 +10,7 @@
   ],
   "contact": {
     "homepage": "https://oko.moe/",
-    "sources": "https://fem.mint.lgbt/oko/DriedNetherWart"
+    "sources": "https://github.com/oko366/DriedNetherWart"
   },
 
   "license": "MIT",
@@ -26,8 +26,9 @@
   ],
 
   "depends": {
-    "fabricloader": ">=0.7.4",
+    "fabricloader": ">=0.11.6",
     "fabric": "*",
-    "minecraft": "1.16.x"
+    "minecraft": "1.17.x",
+    "java": ">=16"
   }
 }
